@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assessment\\OneStreamAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\controllers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\controllers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\services\\frontendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\services\\frontendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\services\\inmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\services\\inmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\services\\api3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\services\\api3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\services\\api2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\services\\api2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\interfaces\\ifrontendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\interfaces\\ifrontendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\interfaces\\iapi3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\interfaces\\iapi3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\interfaces\\iapi2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\interfaces\\iapi2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\controllers\\api2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\controllers\\api2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|d:\\assessment\\onestreamassessment\\onestreamassessment\\controllers\\api3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F41A2F3-2163-43CD-AA7A-065381F12393}|OneStreamAssessment\\OneStreamAssessment.csproj|solutionrelative:onestreamassessment\\controllers\\api3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Models\\RequestModel.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Models\\RequestModel.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Models\\RequestModel.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Models\\RequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:37:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:30:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\appsettings.Development.json",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\appsettings.Development.json",
+              "RelativeToolTip": "OneStreamAssessment\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T19:13:18.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "API3Service.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\API3Service.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Services\\API3Service.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\API3Service.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Services\\API3Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:20.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrontEndService.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\FrontEndService.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Services\\FrontEndService.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\FrontEndService.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Services\\FrontEndService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:05.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InMemoryService.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\InMemoryService.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Services\\InMemoryService.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\InMemoryService.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Services\\InMemoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:05:59.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\TokenService.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Program.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Program.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Program.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\appsettings.json",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\appsettings.json",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\appsettings.json",
+              "RelativeToolTip": "OneStreamAssessment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T19:04:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrontEndController.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\FrontEndController.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Controllers\\FrontEndController.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\FrontEndController.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Controllers\\FrontEndController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:48:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "API2Service.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\API2Service.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Services\\API2Service.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Services\\API2Service.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Services\\API2Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:04:17.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Interfaces\\ITokenService.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:03:58.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OneStreamAssessment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T19:07:27.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFrontEndService.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\IFrontEndService.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Interfaces\\IFrontEndService.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\IFrontEndService.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Interfaces\\IFrontEndService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:03:50.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAPI3Service.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\IAPI3Service.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Interfaces\\IAPI3Service.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\IAPI3Service.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Interfaces\\IAPI3Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:03:37.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAPI2Service.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\IAPI2Service.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Interfaces\\IAPI2Service.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Interfaces\\IAPI2Service.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Interfaces\\IAPI2Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:03:22.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "API2Controller.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\API2Controller.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Controllers\\API2Controller.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\API2Controller.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Controllers\\API2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:47:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "API3Controller.cs",
+              "DocumentMoniker": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\API3Controller.cs",
+              "RelativeDocumentMoniker": "OneStreamAssessment\\Controllers\\API3Controller.cs",
+              "ToolTip": "D:\\Assessment\\OneStreamAssessment\\OneStreamAssessment\\Controllers\\API3Controller.cs",
+              "RelativeToolTip": "OneStreamAssessment\\Controllers\\API3Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:47:12.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "API2Controller",
+    "Method": "GetDataFromApi2",
+    "RelativePath": "api/API2/data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API3Controller",
+    "Method": "GetDataFromApi3",
+    "RelativePath": "api/API3/data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FrontEndController",
+    "Method": "InvokeBackendApis",
+    "RelativePath": "api/FrontEnd/invoke",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FrontEndController",
+    "Method": "PostInvokeBackendApis",
+    "RelativePath": "api/FrontEnd/invoke",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OneStreamAssessment.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TokenController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/Token/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

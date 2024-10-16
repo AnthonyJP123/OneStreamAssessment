@@ -1,0 +1,6 @@
+@OneStreamAssessment_HostAddress = http://localhost:5141
+
+GET {{OneStreamAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
